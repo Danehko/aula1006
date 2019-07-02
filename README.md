@@ -1,6 +1,8 @@
 # aula1006
-
--[ ] autenticação de usuario
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media 
+- [ ] autenticação de usuario
 -[ ] adicionar pessoa
 -[ ] alterar tipo de pessoa (adm ou eleitor)
 -[ ] Cada usuario adm  pode criar eleicao 
