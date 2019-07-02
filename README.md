@@ -1,15 +1,15 @@
 # aula1006
 
-[ ]- autenticaÁ„o de usuario
-[ ]- adicionar pessoa
-[ ]- alterar tipo de pessoa (adm ou eleitor)
-[ ]- Cada usuario adm  pode criar eleicao 
-[ ]- adicionar questao a eleicao
-[ ]- cada quest„o deve ter a indicaÁ„o do minimo e o maximo de resposta a serem respondidas
-[ ]- adicionar resposta a questao
-[ ]- adicionar eleitor
-[ ]- abrir eleicao
-[ ]- encerrar eleicao
-[ ]- apurar eleicao
-[ ]- exebir resultados de eleicao
-[ ]- votar
+[ ] autentica√ß√£o de usuario
+[ ] adicionar pessoa
+[ ] alterar tipo de pessoa (adm ou eleitor)
+[ ] Cada usuario adm  pode criar eleicao 
+[ ] adicionar questao a eleicao
+[ ] cada quest√£o deve ter a indica√ß√£o do minimo e o maximo de resposta a serem respondidas
+[ ] adicionar resposta a questao
+[ ] adicionar eleitor
+[ ] abrir eleicao
+[ ] encerrar eleicao
+[ ] apurar eleicao
+[ ] exebir resultados de eleicao
+[x] votar
